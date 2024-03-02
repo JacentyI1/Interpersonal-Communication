@@ -11,7 +11,7 @@ N/A
   - when sick, notify immediately (or within a resonable time frame)
 ### Form
 Oral presentation in teams (every team member should present some part of the researched topic).
-### Time of presentation
+### Estimated presentation time
  - estimated time: 7min (per person/ in general?)
 ### Presentation evaluation form
 - #### Content and organization [0-2]
