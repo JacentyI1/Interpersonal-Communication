@@ -1,4 +1,4 @@
-### [Presentation](https://1drv.ms/p/s!ApPlUecbgSQIyTGZdQ94JTFu_qO9?e=wOhZOF)
+### [Presentation](https://1drv.ms/p/s!ApPlUecbgSQIyTGZdQ94JTFu_qO9)
 # Subject: IC
 Interpersonal Communication
 ## Grade
