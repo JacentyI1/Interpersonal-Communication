@@ -1,6 +1,6 @@
-# Subject IC
+# Subject: IC
 Interpersonal Communication
-## Grade:
+## Grade
   - attendance
   - commitment (+ attendance) 40%
   - poroject 60%
