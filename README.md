@@ -1,6 +1,9 @@
 ### [Presentation](https://1drv.ms/p/s!ApPlUecbgSQIyTGZdQ94JTFu_qO9)
 # Subject: IC
 Interpersonal Communication
+## Presentation dates
+10.04
+17.04
 ## Grade
   - attendance
   - commitment (+ attendance) 40%
@@ -29,3 +32,4 @@ Variety and correctness of vocabulary in the communicative context
 Eye contact, gestures, stance & posture, movement
 - #### Visual aids [0-2]
 Number, design, relevance, use
+ 
