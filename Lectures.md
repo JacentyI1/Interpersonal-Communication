@@ -69,4 +69,5 @@ Environment distractors
         3) relevance
         4) use
         Keep the style simple, check spelling, limit bullet points per slide, don't ignore the audience, don't read from the slides, talk about what the audience can actually see at a given moment, practice your presentation
-    (video of World championship in publilc speaking) 
+    (video of World championship in publilc speaking)
+
