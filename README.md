@@ -8,6 +8,10 @@ Interpersonal Communication
 
 10.04 - Trends and challenges for interpersonal communication in the next decade.
 
+## Script
+
+[script.md](assets/script.md)
+
 ## Grade
 
 - attendance
