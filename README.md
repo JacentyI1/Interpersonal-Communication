@@ -4,10 +4,9 @@
 
 Interpersonal Communication
 
-## Presentation dates
+## Presentation date & topic
 
-10.04
-17.04
+10.04 - Trends and challenges for interpersonal communication in the next decade.
 
 ## Grade
 
