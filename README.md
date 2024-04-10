@@ -41,7 +41,7 @@ Oral presentation in teams (every team member should present some part of the re
   Ability to explore the topic in an extended, organized, clear and logical way.
 - #### Accuracy [0-2] 2
   Control of structures including tenses, prepositions, register, linkers, grammar, etc.
-- #### Fluency [0-2]
+- #### Fluency [0-2] 2
   Speed and rhythm, choice of structures, clarity
 - #### Pronunciation [0-2] 1
   Stress timing, rhythm and intonation patterns, linking of phrases.
