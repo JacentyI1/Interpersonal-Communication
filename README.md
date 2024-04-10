@@ -16,7 +16,7 @@ Interpersonal Communication
 
 - attendance
 - commitment (+ attendance) 40%
-- poroject 60%
+- poroject 60% : 12/14pts
 
 ## Materials & references
 
@@ -37,19 +37,19 @@ Oral presentation in teams (every team member should present some part of the re
 
 ### Presentation evaluation form
 
-- #### Content and organization [0-2]
+- #### Content and organization [0-2] 2
   Ability to explore the topic in an extended, organized, clear and logical way.
-- #### Accuracy [0-2]
+- #### Accuracy [0-2] 2
   Control of structures including tenses, prepositions, register, linkers, grammar, etc.
 - #### Fluency [0-2]
   Speed and rhythm, choice of structures, clarity
-- #### Pronunciation [0-2]
+- #### Pronunciation [0-2] 1
   Stress timing, rhythm and intonation patterns, linking of phrases.
-- #### Vocabulary [0-2]
+- #### Vocabulary [0-2] 2
   Variety and correctness of vocabulary in the communicative context
-- #### Body language [0-2]
+- #### Body language [0-2] 1
   Eye contact, gestures, stance & posture, movement
-- #### Visual aids [0-2]
+- #### Visual aids [0-2] 2
   Number, design, relevance, use
 
 # Additional information
